@@ -1,0 +1,4 @@
+<Aboutme />
+      <Technologies />
+      <Projects />
+      <ContactMe />

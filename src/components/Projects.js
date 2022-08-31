@@ -12,7 +12,7 @@ import { Navigation, Pagination, Mousewheel, Keyboard } from "swiper";
 
 export default function Projects() {
   return (
-    <div className="projects">
+    <div className="projects" id="section--projects">
       <h1 className="project-title">Personal Projects</h1>
       <Swiper
         cssMode={true}

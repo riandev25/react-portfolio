@@ -8,7 +8,7 @@ const ContactMe = () => {
   });
 
   return (
-    <section className="contactme">
+    <section className="contactme" id="section--contactme">
       <h1 className="contactme-title">Contact me</h1>
       <div className="contactme-list">{cards}</div>
     </section>

@@ -8,7 +8,7 @@ const Technologies = () => {
   });
 
   return (
-    <section className="technologies">
+    <section className="technologies" id="section--technologies">
       <h1 className="technologies-title">Tools</h1>
       <div className="cards-list">{cards}</div>
     </section>
