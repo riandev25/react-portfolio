@@ -1,8 +1,8 @@
-import Header from "./components/Header2";
-import Aboutme from "./components/AboutMe";
-import Technologies from "./components/Technologies";
-import Projects from "./components/Projects";
-import ContactMe from "./components/ContactMe";
+import Header from "./Components/Header2";
+import Aboutme from "./Components/AboutMe";
+import Technologies from "./Components/Technologies";
+import Projects from "./Components/Projects";
+import ContactMe from "./Components/ContactMe";
 
 const App = () => {
   return (
