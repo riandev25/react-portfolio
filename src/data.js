@@ -46,7 +46,7 @@ export default {
     {
       id: 1,
       title: "LinkedIn",
-      link: "www.linkedin.com/in/rian-miguel-engracia-5bb6ba206",
+      link: "www.linkedin.com/in/rian-miguel-engracia",
       imgSrc: "./images/linkedin.png",
     },
     {
