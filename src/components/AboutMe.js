@@ -16,7 +16,7 @@ const Aboutme = () => {
         <p className="details--description">
           An aspiring developer with a degree in Mechanical Engineering and want
           to start a career in web development. Currently, I'm focused on
-          learning ReactJS.
+          improving frontend skills and learning ReactJS.
         </p>
       </section>
     </div>

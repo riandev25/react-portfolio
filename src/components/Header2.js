@@ -4,7 +4,7 @@ const Header2 = () => {
   return (
     <header class="header">
       <a href className="logo">
-        CSS Nav
+        Logo
       </a>
       <input className="menu-btn" type="checkbox" id="menu-btn" />
       <label className="menu-icon" htmlFor="menu-btn">
