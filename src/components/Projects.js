@@ -41,7 +41,12 @@ const Projects = () => {
             >
               Live demo
             </a>
-            <a href class="button-project">
+            <a
+              href="https://github.com/riandev25/js-weather-app"
+              class="button-project"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Source code
             </a>
           </section>
@@ -54,10 +59,20 @@ const Projects = () => {
             </p>
           </section>
           <section className="buttons-section">
-            <a href class="button-project">
+            <a
+              href="https://rianengracia.netlify.app/"
+              class="button-project"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Live demo
             </a>
-            <a href class="button-project">
+            <a
+              href="https://github.com/riandev25/react-portfolio"
+              class="button-project"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Source code
             </a>
           </section>
