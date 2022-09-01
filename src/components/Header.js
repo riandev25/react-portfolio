@@ -1,6 +1,6 @@
 import React from "react";
 
-const Header2 = () => {
+const Header = () => {
   return (
     <header class="header">
       <a href className="logo">
@@ -28,4 +28,4 @@ const Header2 = () => {
   );
 };
 
-export default Header2;
+export default Header;
